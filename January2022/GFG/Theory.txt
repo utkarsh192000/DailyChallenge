@@ -1,0 +1,7 @@
+
+
+=> Problem :
+1) Integer to Words
+2) Kth Smallest Factor
+3) Rotate Matrix 90 degree
+4) Z algo Search Pattern

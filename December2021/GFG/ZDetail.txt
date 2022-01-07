@@ -1,0 +1,53 @@
+
+# DATES along with Questions :
+
+=> DEC 2021
+
+1) Rotten Oranges 
+2) Maximum product Subarray
+3) Minimum Swaps ans K together 
+4) Find Last Digit Of a^b for Large Numbers
+5) Find duplicate rows in a binary matrix
+6) Kth Smallest Number in Multiplication Table
+7) Triplets with sum with given range
+8) Sum of two elements with sum nearest to zero
+9) Secret Cipher
+10) Maximum XOR subset 
+11) Phone Number Combination 
+12) Subarray with equal 1s and 0s
+13) Find n/k th node in Linked list
+14) Reverse each word in a given string
+15) First negative integer in every window of size k 
+16) Left View of Binary Tree
+17) Huffman Encoding
+18) Maximum difference between node and its ancestor
+19) Encrypt the string - 2
+20) Possible paths between 2 vertices
+21) LCS of three strings
+22) Maximize sum after K negations
+23)
+24)
+25)
+26)
+27)
+28)
+29)
+30)
+31)
+
+=> Video Link 
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+8)
+9)
+10)
+11)
+12)
+13)
+14)
+15) https://www.youtube.com/watch?v=CYloJQ9B4Lw
