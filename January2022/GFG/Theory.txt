@@ -5,3 +5,30 @@
 2) Kth Smallest Factor
 3) Rotate Matrix 90 degree
 4) Z algo Search Pattern
+5) Binary Array Sorting
+6) Longest Common Prefix in an Array
+7) 1's Complement
+8) N Digit numbers with digits in increasing order
+9) Positive Negative Pair
+10) Add 1 to a number represented as linked list
+11) Clone a stack without using extra space
+12)  Check if subtree
+13) Reverse First K elements of Queue
+14) Add all greater values to every node in a BST
+15) Merge two binary Max heaps
+16) Steps by Knight
+17) Palindrome Pairs
+18) Maximum sum of Non-adjacent nodes
+19) Maximum sum of increasing order elements from n arrays
+20) Binary number to decimal number
+21) 
+22) 
+23) 
+24) 
+25) 
+26) 
+27) 
+28) 
+29) 
+30) 
+31) 

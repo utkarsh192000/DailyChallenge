@@ -45,7 +45,7 @@ int main()
     }
 
     int ans = maxCoins(arr);
-    cout<<ans<<endl;
+    cout << ans << endl;
 
     return 0;
 }
